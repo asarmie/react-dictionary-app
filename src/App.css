@@ -1,7 +1,16 @@
 .App {
-  margin: 20px;
+  margin: 30px;
+  border: solid 0px #3eb489;
+  border-radius: 10px;
+  background: #3eb489;
 }
 .App-header {
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
+  padding-top: 20px;
+}
+.App-footer {
+  text-align: center;
+  font-size: 15px;
+  text-decoration: gray;
 }
